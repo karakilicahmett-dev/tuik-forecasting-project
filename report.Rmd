@@ -1,0 +1,15 @@
+---
+title: "Marmara Üniversitesi - Yönetim Bilişim Sistemleri"
+subtitle: "Zaman Serisi Analizi ve Gelecek Dönem Tahmin Projesi"
+author: "Ahmet Karakılıç"
+date: "2026-06-03"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    theme: united
+    highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
